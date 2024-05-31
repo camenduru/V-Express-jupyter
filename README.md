@@ -17,5 +17,7 @@ https://tenvence.github.io/p/v-express/
 ### 🖼 Output
 https://github.com/camenduru/V-Express-jupyter/assets/54370274/57cf7056-7c39-4d18-9a65-1f900bdf0e00
 
+https://github.com/camenduru/V-Express-jupyter/assets/54370274/d2e873b4-6737-4931-98c4-1fef04747c02
+
 ### 🏢 Sponsor
 https://runpod.io
