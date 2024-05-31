@@ -19,5 +19,7 @@ https://github.com/camenduru/V-Express-jupyter/assets/54370274/57cf7056-7c39-4d1
 
 https://github.com/camenduru/V-Express-jupyter/assets/54370274/d2e873b4-6737-4931-98c4-1fef04747c02
 
+https://github.com/camenduru/V-Express-jupyter/assets/54370274/40da114f-fec6-4556-8f50-3899e15f226f
+
 ### 🏢 Sponsor
 https://runpod.io
