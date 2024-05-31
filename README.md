@@ -11,9 +11,6 @@
 ### 🧬 Code
 https://github.com/tencent-ailab/V-Express
 
-### 📄 Paper
-
-
 ### 🌐 Page
 https://tenvence.github.io/p/v-express/
 
