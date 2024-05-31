@@ -18,7 +18,7 @@ https://github.com/tencent-ailab/V-Express
 https://tenvence.github.io/p/v-express/
 
 ### 🖼 Output
-
+https://github.com/camenduru/V-Express-jupyter/assets/54370274/57cf7056-7c39-4d18-9a65-1f900bdf0e00
 
 ### 🏢 Sponsor
 https://runpod.io
